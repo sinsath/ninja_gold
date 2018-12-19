@@ -1,0 +1,31 @@
+.gold span {
+    border: solid 1px black;
+    padding: 2px;
+}
+
+.locations{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.location{
+    border: solid 1px black;
+    padding: 30px;
+    text-align: center;
+    width:20%;
+    display: block;
+}
+
+.activity-list{
+    border: 1px solid black;
+    overflow-y: auto;
+    height: 200px;
+}
+
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
